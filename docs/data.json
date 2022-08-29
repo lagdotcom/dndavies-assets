@@ -1,0 +1,42 @@
+{
+  "tokenImages": {
+    "Aura": "https://lagdotcom.github.io/dndavies-assets/aura-150.jpg",
+    "Beldalynn": "https://lagdotcom.github.io/dndavies-assets/beldalynn-150.jpg",
+    "Galilea": "https://lagdotcom.github.io/dndavies-assets/galilea-256.jpg",
+    "Hagrond": "https://lagdotcom.github.io/dndavies-assets/hagrond-120.jpg",
+    "Salgar": "https://lagdotcom.github.io/dndavies-assets/salgar-256.jpg",
+
+    "Anggawarsito": "https://lagdotcom.github.io/dndavies-assets/anggawarsito-150.jpg",
+    "Belota": "https://lagdotcom.github.io/dndavies-assets/belota-180.png",
+    "Callum": "https://lagdotcom.github.io/dndavies-assets/callum-150.jpg",
+    "Elondip": "https://lagdotcom.github.io/dndavies-assets/elondip-256.jpg",
+    "Jarimi": "https://lagdotcom.github.io/dndavies-assets/jarimi-256.jpg",
+    "Kali": "https://lagdotcom.github.io/dndavies-assets/kali-80.png",
+    "Kan-shi-sha": "https://lagdotcom.github.io/dndavies-assets/kanshisha-256.jpg",
+    "Kataal": "https://lagdotcom.github.io/dndavies-assets/kataal-150.jpg",
+    "Kay": "https://lagdotcom.github.io/dndavies-assets/kay-150.jpg",
+    "Lar": "https://lagdotcom.github.io/dndavies-assets/lar-100.jpg",
+    "Ramutha": "https://lagdotcom.github.io/dndavies-assets/ramutha-150.png",
+    "Storm": "https://lagdotcom.github.io/dndavies-assets/storm-150.jpg",
+    "Tenaullachar": "https://lagdotcom.github.io/dndavies-assets/tenaullachar-256.jpg",
+    "Uzuntish": "https://lagdotcom.github.io/dndavies-assets/uzuntish-256.jpg",
+
+    "cspl": "https://lagdotcom.github.io/dndavies-assets/coldspringlion-150.jpg",
+    "sklh": "https://lagdotcom.github.io/dndavies-assets/skeletalhellhound-150.jpg",
+
+    "Babau": "https://www.dndbeyond.com/avatars/thumbnails/9/616/140/140/636329612472178863.jpg",
+    "Barlgura": "https://www.dndbeyond.com/avatars/thumbnails/8/614/140/140/636312429973945921.jpg",
+    "Cambion": "https://www.dndbeyond.com/avatars/thumbnails/8/780/140/140/636318470028726478.jpg",
+    "DuergarHammerer": "https://5e.tools/img/bestiary/MPMM/Duergar%20Hammerer.webp",
+    "DuergarXarrorn": "https://5e.tools/img/bestiary/MPMM/Duergar%20Xarrorn.webp",
+    "DustMephit": "https://lagdotcom.github.io/dndavies-assets/dustmephit-150.jpg",
+    "Glabrezu": "https://lagdotcom.github.io/dndavies-assets/glabrezu-150.jpg",
+    "Hellhound": "https://lagdotcom.github.io/dndavies-assets/hellhound-150.jpg",
+    "IceMephit": "https://lagdotcom.github.io/dndavies-assets/icemephit-150.jpg",
+    "Lion": "https://lagdotcom.github.io/dndavies-assets/lion-150.jpg",
+    "MagmaMephit": "https://lagdotcom.github.io/dndavies-assets/magmamephit-147.jpg",
+    "MawDemon": "https://www.dndbeyond.com/avatars/thumbnails/9/618/140/140/636329621309218199.jpg",
+    "SteamMephit": "https://lagdotcom.github.io/dndavies-assets/steammephit-150.jpg",
+    "WinterWolf": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/54/254/315/636252725270715296.jpg"
+  }
+}
