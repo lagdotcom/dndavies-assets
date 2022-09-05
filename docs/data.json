@@ -38,8 +38,13 @@
     "IceMephit": "https://lagdotcom.github.io/dndavies-assets/m/icemephit-150.jpg",
     "Lion": "https://lagdotcom.github.io/dndavies-assets/m/lion-150.jpg",
     "MagmaMephit": "https://lagdotcom.github.io/dndavies-assets/m/magmamephit-147.jpg",
+    "Maurezhi": "https://lagdotcom.github.io/dndavies-assets/m/maurezhi-150.png",
     "MawDemon": "https://lagdotcom.github.io/dndavies-assets/m/mawdemon-150.png",
     "SteamMephit": "https://lagdotcom.github.io/dndavies-assets/m/steammephit-150.jpg",
-    "WinterWolf": "https://lagdotcom.github.io/dndavies-assets/m/winterwolf-150.png"
+    "WinterWolf": "https://lagdotcom.github.io/dndavies-assets/m/winterwolf-150.png",
+    "YuantiAbomination": "https://lagdotcom.github.io/dndavies-assets/m/yuantiabomination-300.png",
+    "YuantiGhoul": "https://lagdotcom.github.io/dndavies-assets/m/yuantighoul-150.png",
+    "YuantiMalison": "https://lagdotcom.github.io/dndavies-assets/m/yuantimalison-150.png",
+    "YuantiPureblood": "https://lagdotcom.github.io/dndavies-assets/m/yuantipureblood-150.png"
   }
 }
